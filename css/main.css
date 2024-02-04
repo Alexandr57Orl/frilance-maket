@@ -65,7 +65,6 @@ body {
 .content-list__item-link:hover {
   color: orange;
   text-decoration: underline;
-  padding-right: 300px;
 }
 .content-list__item-link.active {
   color: #000;

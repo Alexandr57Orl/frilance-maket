@@ -44,6 +44,7 @@
     width: 100%;
     color: #fff; /* Цвет текста */
     background: orange; /* Цвет фона */
+    padding-right: 300px;
   }
   .header-nav {
     margin-bottom: 56px;
